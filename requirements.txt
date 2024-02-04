@@ -1,1 +1,4 @@
-flask
+Flask==2.2.2
+numpy==1.23.3
+Requests==2.31.0
+tensorflow_cpu==2.10.0
